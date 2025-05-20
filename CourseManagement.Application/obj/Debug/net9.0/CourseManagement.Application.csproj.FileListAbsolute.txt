@@ -1,0 +1,16 @@
+C:\Users\ehsan0203\source\repos\CourseManagement.Application\bin\Debug\net9.0\CourseManagement.Application.deps.json
+C:\Users\ehsan0203\source\repos\CourseManagement.Application\bin\Debug\net9.0\CourseManagement.Application.dll
+C:\Users\ehsan0203\source\repos\CourseManagement.Application\bin\Debug\net9.0\CourseManagement.Application.pdb
+C:\Users\ehsan0203\source\repos\CourseManagement.Application\obj\Debug\net9.0\CourseManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ehsan0203\source\repos\CourseManagement.Application\obj\Debug\net9.0\CourseManagement.Application.AssemblyInfoInputs.cache
+C:\Users\ehsan0203\source\repos\CourseManagement.Application\obj\Debug\net9.0\CourseManagement.Application.AssemblyInfo.cs
+C:\Users\ehsan0203\source\repos\CourseManagement.Application\obj\Debug\net9.0\CourseManagement.Application.csproj.CoreCompileInputs.cache
+C:\Users\ehsan0203\source\repos\CourseManagement.Application\obj\Debug\net9.0\CourseManagement.Application.sourcelink.json
+C:\Users\ehsan0203\source\repos\CourseManagement.Application\obj\Debug\net9.0\CourseManagement.Application.dll
+C:\Users\ehsan0203\source\repos\CourseManagement.Application\obj\Debug\net9.0\refint\CourseManagement.Application.dll
+C:\Users\ehsan0203\source\repos\CourseManagement.Application\obj\Debug\net9.0\CourseManagement.Application.pdb
+C:\Users\ehsan0203\source\repos\CourseManagement.Application\obj\Debug\net9.0\ref\CourseManagement.Application.dll
+C:\Users\ehsan0203\source\repos\CourseManagement.Application\bin\Debug\net9.0\CourseManagement.Core.dll
+C:\Users\ehsan0203\source\repos\CourseManagement.Application\bin\Debug\net9.0\CourseManagement.Core.pdb
+C:\Users\ehsan0203\source\repos\CourseManagement.Application\obj\Debug\net9.0\CourseManagement.Application.csproj.AssemblyReference.cache
+C:\Users\ehsan0203\source\repos\CourseManagement.Application\obj\Debug\net9.0\CourseMa.3090F45A.Up2Date

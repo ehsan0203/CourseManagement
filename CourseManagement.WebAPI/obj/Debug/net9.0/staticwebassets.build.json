@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "z2NQVPkngHHtnRkIf3yhJ+AHw+30fXpk1s8u0DJktvk=",
+  "Source": "CourseManagement.WebAPI",
+  "BasePath": "_content/CourseManagement.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
