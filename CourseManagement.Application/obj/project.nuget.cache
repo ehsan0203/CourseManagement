@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "H1cP2uin194=",
+  "dgSpecHash": "IE33GQ/kk/s=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ehsan0203\\source\\repos\\CourseManagement.Application\\CourseManagement.Application.csproj",
+  "projectFilePath": "C:\\Users\\ehsan0203\\source\\repos\\CourseManagement\\CourseManagement\\CourseManagement.Application\\CourseManagement.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ehsan0203\\.nuget\\packages\\microsoft.aspnet.identity.core\\2.2.4\\microsoft.aspnet.identity.core.2.2.4.nupkg.sha512",
     "C:\\Users\\ehsan0203\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\9.0.5\\microsoft.aspnetcore.cryptography.internal.9.0.5.nupkg.sha512",

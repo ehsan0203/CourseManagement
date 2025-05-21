@@ -26,6 +26,15 @@ builder.Services.AddFluentValidationClientsideAdapters();
 builder.Services.AddValidatorsFromAssemblyContaining<CreateCourseDtoValidator>();
 builder.Services.AddEndpointsApiExplorer(); // برای Swagger
 builder.Services.AddSwaggerGen();           // فعال‌سازی Swagger
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("AllowAngularClient", policy =>
+    {
+        policy.AllowAnyOrigin()
+              .AllowAnyHeader()
+              .AllowAnyMethod();
+    });
+});
 
 var app = builder.Build();
 
@@ -36,8 +45,10 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 app.UseHttpsRedirection();
-
+app.UseCors("AllowAngularClient");
+app.UseAuthentication();
 app.UseAuthorization();
+
 
 app.MapControllers();
 

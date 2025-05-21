@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ehsan0203\\source\\repos\\CourseManagement.Core\\CourseManagement.Core.csproj",
+      "projectUniqueName": "C:\\Users\\ehsan0203\\source\\repos\\CourseManagement\\CourseManagement\\CourseManagement.Core\\CourseManagement.Core.csproj",
       "projectName": "CourseManagement.Core",
-      "projectPath": "C:\\Users\\ehsan0203\\source\\repos\\CourseManagement.Core\\CourseManagement.Core.csproj",
+      "projectPath": "C:\\Users\\ehsan0203\\source\\repos\\CourseManagement\\CourseManagement\\CourseManagement.Core\\CourseManagement.Core.csproj",
       "packagesPath": "C:\\Users\\ehsan0203\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ehsan0203\\source\\repos\\CourseManagement.Core\\obj\\",
+      "outputPath": "C:\\Users\\ehsan0203\\source\\repos\\CourseManagement\\CourseManagement\\CourseManagement.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

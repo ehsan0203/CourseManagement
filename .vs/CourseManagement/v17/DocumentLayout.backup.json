@@ -1,7 +1,28 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ehsan0203\\source\\repos\\CourseManagement\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\ehsan0203\\source\\repos\\CourseManagement\\CourseManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{38D74C34-EA83-7031-383B-5E230AB51541}|CourseManagement.WebAPI\\CourseManagement.WebAPI.csproj|c:\\users\\ehsan0203\\source\\repos\\coursemanagement\\coursemanagement\\coursemanagement.webapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38D74C34-EA83-7031-383B-5E230AB51541}|CourseManagement.WebAPI\\CourseManagement.WebAPI.csproj|solutionrelative:coursemanagement.webapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38D74C34-EA83-7031-383B-5E230AB51541}|CourseManagement.WebAPI\\CourseManagement.WebAPI.csproj|c:\\users\\ehsan0203\\source\\repos\\coursemanagement\\coursemanagement\\coursemanagement.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38D74C34-EA83-7031-383B-5E230AB51541}|CourseManagement.WebAPI\\CourseManagement.WebAPI.csproj|solutionrelative:coursemanagement.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38D74C34-EA83-7031-383B-5E230AB51541}|CourseManagement.WebAPI\\CourseManagement.WebAPI.csproj|c:\\users\\ehsan0203\\source\\repos\\coursemanagement\\coursemanagement\\coursemanagement.webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{38D74C34-EA83-7031-383B-5E230AB51541}|CourseManagement.WebAPI\\CourseManagement.WebAPI.csproj|solutionrelative:coursemanagement.webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C6872D6-E42D-DC3F-C7D3-F33CECB6A24D}|CourseManagement.Core\\CourseManagement.Core.csproj|c:\\users\\ehsan0203\\source\\repos\\coursemanagement\\coursemanagement\\coursemanagement.core\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C6872D6-E42D-DC3F-C7D3-F33CECB6A24D}|CourseManagement.Core\\CourseManagement.Core.csproj|solutionrelative:coursemanagement.core\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38D74C34-EA83-7031-383B-5E230AB51541}|CourseManagement.WebAPI\\CourseManagement.WebAPI.csproj|c:\\users\\ehsan0203\\source\\repos\\coursemanagement\\coursemanagement\\coursemanagement.webapi\\coursemanagement.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{38D74C34-EA83-7031-383B-5E230AB51541}|CourseManagement.WebAPI\\CourseManagement.WebAPI.csproj|solutionrelative:coursemanagement.webapi\\coursemanagement.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,6 +71,69 @@
             {
               "$type": "Bookmark",
               "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\ehsan0203\\source\\repos\\CourseManagement\\CourseManagement\\CourseManagement.WebAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "CourseManagement.WebAPI\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\ehsan0203\\source\\repos\\CourseManagement\\CourseManagement\\CourseManagement.WebAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "CourseManagement.WebAPI\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T08:43:08.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\ehsan0203\\source\\repos\\CourseManagement\\CourseManagement\\CourseManagement.WebAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "CourseManagement.WebAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\ehsan0203\\source\\repos\\CourseManagement\\CourseManagement\\CourseManagement.WebAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "CourseManagement.WebAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-20T08:07:15.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\ehsan0203\\source\\repos\\CourseManagement\\CourseManagement\\CourseManagement.Core\\Entities\\AppUser.cs",
+              "RelativeDocumentMoniker": "CourseManagement.Core\\Entities\\AppUser.cs",
+              "ToolTip": "C:\\Users\\ehsan0203\\source\\repos\\CourseManagement\\CourseManagement\\CourseManagement.Core\\Entities\\AppUser.cs",
+              "RelativeToolTip": "CourseManagement.Core\\Entities\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T08:06:34.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ehsan0203\\source\\repos\\CourseManagement\\CourseManagement\\CourseManagement.WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "CourseManagement.WebAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\ehsan0203\\source\\repos\\CourseManagement\\CourseManagement\\CourseManagement.WebAPI\\Program.cs",
+              "RelativeToolTip": "CourseManagement.WebAPI\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwC8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T08:06:01.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CourseManagement.WebAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\ehsan0203\\source\\repos\\CourseManagement\\CourseManagement\\CourseManagement.WebAPI\\CourseManagement.WebAPI.csproj",
+              "RelativeDocumentMoniker": "CourseManagement.WebAPI\\CourseManagement.WebAPI.csproj",
+              "ToolTip": "C:\\Users\\ehsan0203\\source\\repos\\CourseManagement\\CourseManagement\\CourseManagement.WebAPI\\CourseManagement.WebAPI.csproj",
+              "RelativeToolTip": "CourseManagement.WebAPI\\CourseManagement.WebAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-20T08:05:01.817Z"
             }
           ]
         }

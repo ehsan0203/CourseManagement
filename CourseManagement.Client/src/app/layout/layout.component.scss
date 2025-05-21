@@ -1,0 +1,31 @@
+.sidenav-container {
+    height: 100vh;
+  }
+  
+  .sidenav {
+    width: 220px;
+  }
+  
+  .title {
+    margin-right: 1rem;
+  }
+  
+  .content {
+    padding: 1.5rem;
+    min-height: calc(100vh - 64px); // بالا پایین بودن محتوا رو حل می‌کنه
+    background-color: #f9f9f9;
+  }
+
+  .spacer {
+    flex: 1;
+  }
+  
+  .avatar {
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    margin-left: 0.5rem;
+    object-fit: cover;
+  }
+  
+  

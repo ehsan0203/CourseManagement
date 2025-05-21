@@ -1,0 +1,57 @@
+<mat-sidenav-container class="sidenav-container">
+  <mat-sidenav
+    #drawer
+    [mode]="isHandset ? 'over' : 'side'"
+    [opened]="!isHandset"
+    class="sidenav"
+  >
+    <mat-toolbar color="primary" class="toolbar">
+      <button mat-icon-button (click)="drawer.toggle()" class="hide-desktop">
+        <mat-icon>menu</mat-icon>
+      </button>
+
+      <span class="title">دوره‌های من</span>
+
+      <span class="spacer"></span>
+      <button mat-icon-button [matBadge]="unreadCount" matBadgeColor="warn">
+        <mat-icon>notifications</mat-icon>
+      </button>
+
+      <button mat-button [matMenuTriggerFor]="profileMenu">
+        <img [src]="user.avatar" alt="avatar" class="avatar" />
+        <span>{{ user.username }}</span>
+      </button>
+
+      <mat-menu #profileMenu="matMenu">
+        <button mat-menu-item>پروفایل</button>
+        <button mat-menu-item (click)="logout()">خروج</button>
+      </mat-menu>
+    </mat-toolbar>
+
+    <mat-nav-list>
+      <a mat-list-item routerLink="/dashboard" routerLinkActive="active"
+        >داشبورد</a
+      >
+      <a mat-list-item routerLink="/dashboard/add" routerLinkActive="active"
+        >افزودن دوره</a
+      >
+      <button mat-list-item (click)="toggleTheme()">
+        تم {{ isDark ? "روشن" : "تاریک" }}
+      </button>
+      <button mat-list-item (click)="logout()">خروج</button>
+    </mat-nav-list>
+  </mat-sidenav>
+
+  <mat-sidenav-content>
+    <mat-toolbar color="primary">
+      <button mat-icon-button (click)="drawer.toggle()" *ngIf="isHandset">
+        <mat-icon>menu</mat-icon>
+      </button>
+      <span class="title">دوره‌های من</span>
+    </mat-toolbar>
+
+    <div class="content">
+      <router-outlet></router-outlet>
+    </div>
+  </mat-sidenav-content>
+</mat-sidenav-container>

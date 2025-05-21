@@ -10,3 +10,15 @@ C:\Users\ehsan0203\source\repos\CourseManagement.Core\obj\Debug\net9.0\CourseMan
 C:\Users\ehsan0203\source\repos\CourseManagement.Core\obj\Debug\net9.0\refint\CourseManagement.Core.dll
 C:\Users\ehsan0203\source\repos\CourseManagement.Core\obj\Debug\net9.0\CourseManagement.Core.pdb
 C:\Users\ehsan0203\source\repos\CourseManagement.Core\obj\Debug\net9.0\ref\CourseManagement.Core.dll
+C:\Users\ehsan0203\source\repos\CourseManagement\CourseManagement\CourseManagement.Core\bin\Debug\net9.0\CourseManagement.Core.deps.json
+C:\Users\ehsan0203\source\repos\CourseManagement\CourseManagement\CourseManagement.Core\bin\Debug\net9.0\CourseManagement.Core.dll
+C:\Users\ehsan0203\source\repos\CourseManagement\CourseManagement\CourseManagement.Core\bin\Debug\net9.0\CourseManagement.Core.pdb
+C:\Users\ehsan0203\source\repos\CourseManagement\CourseManagement\CourseManagement.Core\obj\Debug\net9.0\CourseManagement.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ehsan0203\source\repos\CourseManagement\CourseManagement\CourseManagement.Core\obj\Debug\net9.0\CourseManagement.Core.AssemblyInfoInputs.cache
+C:\Users\ehsan0203\source\repos\CourseManagement\CourseManagement\CourseManagement.Core\obj\Debug\net9.0\CourseManagement.Core.AssemblyInfo.cs
+C:\Users\ehsan0203\source\repos\CourseManagement\CourseManagement\CourseManagement.Core\obj\Debug\net9.0\CourseManagement.Core.csproj.CoreCompileInputs.cache
+C:\Users\ehsan0203\source\repos\CourseManagement\CourseManagement\CourseManagement.Core\obj\Debug\net9.0\CourseManagement.Core.sourcelink.json
+C:\Users\ehsan0203\source\repos\CourseManagement\CourseManagement\CourseManagement.Core\obj\Debug\net9.0\CourseManagement.Core.dll
+C:\Users\ehsan0203\source\repos\CourseManagement\CourseManagement\CourseManagement.Core\obj\Debug\net9.0\refint\CourseManagement.Core.dll
+C:\Users\ehsan0203\source\repos\CourseManagement\CourseManagement\CourseManagement.Core\obj\Debug\net9.0\CourseManagement.Core.pdb
+C:\Users\ehsan0203\source\repos\CourseManagement\CourseManagement\CourseManagement.Core\obj\Debug\net9.0\ref\CourseManagement.Core.dll

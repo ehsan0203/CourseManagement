@@ -1,0 +1,37 @@
+// تعریف تم روشن
+@use '@angular/material' as mat;
+@import url('https://cdn.fontcdn.ir/Font/Persian/Vazirmatn/Vazirmatn.css');
+
+
+
+@include mat.core();
+body {
+    direction: rtl;
+    font-family: 'Vazirmatn', 'Tahoma', sans-serif;
+    text-align: right;
+  }
+  
+$light-theme: mat.define-light-theme((
+  color: (
+    primary: mat.define-palette(mat.$indigo-palette),
+    accent: mat.define-palette(mat.$pink-palette),
+  )
+));
+
+// تعریف تم تاریک
+$dark-theme: mat.define-dark-theme((
+  color: (
+    primary: mat.define-palette(mat.$blue-grey-palette),
+    accent: mat.define-palette(mat.$cyan-palette),
+  )
+));
+
+// تم پیش‌فرض روشن
+@include mat.all-component-themes($light-theme);
+
+// کلاس سفارشی برای تم تاریک
+.dark-theme {
+  @include mat.all-component-colors($dark-theme);
+  background-color: #121212;
+  color: white;
+}

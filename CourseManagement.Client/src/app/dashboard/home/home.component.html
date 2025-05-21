@@ -1,0 +1,13 @@
+<div class="dashboard-container" *ngIf="courses.length">
+    <mat-card *ngFor="let course of courses" class="course-card">
+      <h3>{{ course.title }}</h3>
+      <p>مدرس: {{ course.instructor }}</p>
+      <p>مدت: {{ course.duration }} دقیقه</p>
+      <p>{{ course.description }}</p>
+    </mat-card>
+  </div>
+  
+  <div *ngIf="!courses.length" style="text-align: center;">
+    <p>هیچ دوره‌ای ثبت نشده است.</p>
+  </div>
+  
